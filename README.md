@@ -1,7 +1,7 @@
 # VouInvadirSeuSite.py
 *Uses all possible scanners and scripts, to do the best pentest ever, guaranting that you don't forget any tool. Try to find even the little known flaws.*
 
-## About
+## About:
 Tired of forgeting the tools? of using 50+ scripts, scanners, organizing the data, complex attacks, and fuckin ur mind because you are a idiot who don't sleep too much just like me?
 Ok. I did that for u. All of the scripts, scanners, basic exploits, bruteforces, will be done automatically for u. You will just type one command, then relax and go eat some pizza, while it does all the magic automatically.
 Then, all the output will be automatically organizated in txt files for u.
@@ -11,6 +11,17 @@ Works only on kali linux, using all the possible scanners that comes in.
 And, for an additional, it will use a lot of anothers scripts, that doesn't exist actually in Kali.
 Mysql bruteforce, ftp bruteforce, rdp bruteforce, dir's finders, a lot of sqli testers, xss tester, lfi, rfi, admin's finder, fuzzing, doing a advanced pentest.
 
+## Timing:
+It is supposed to be slow. Mostly aggressive options from all scanners. (Yeah, if theres an IDS they will know, how much emotion, the better. {The tools are all used in a way to try to bypass firewalls, ids and ips. Relax kiddo} )
+The full execution can go from 5 minutes to 1 hour, so just relax and wait.
+
+## Requirements:
+ - Kali Linux updated
+ - A keyboard
+ - (Optional) A mouse
+ ## Usage:
+ `git clone this shit by terminal, so you look like a hacker!`
+ `or just download with the green button, extract and run python3 vouinvadirseusite.py , same shit`
 
 ## Files Generated:
 
