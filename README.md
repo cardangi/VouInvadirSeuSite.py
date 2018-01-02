@@ -1,5 +1,6 @@
-# VouInvadirSeuSite.py
+# VouInvadirSeuSite.py [V1]
 *Uses all possible scanners and scripts, to do the best pentest ever, guaranting that you don't forget any tool. Try to find even the little known flaws.*
+It's on beta test. I will add a lot of tools in the future. 
 
 ## About:
 Tired of forgeting the tools? of using 50+ scripts, scanners, organizing the data, complex attacks, and fuckin ur mind because you are a idiot who don't sleep too much just like me?
