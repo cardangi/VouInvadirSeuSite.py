@@ -12,8 +12,8 @@ And, for an additional, it will use a lot of anothers scripts, that doesn't exis
 Mysql bruteforce, ftp bruteforce, rdp bruteforce, dir's finders, a lot of sqli testers, xss tester, lfi, rfi, admin's finder, fuzzing, doing a advanced pentest.
 
 ## Timing:
-It is supposed to be slow. Mostly aggressive options from all scanners. (Yeah, if theres an IDS they will know, how much emotion, the better. {The tools are all used in a way to try to bypass firewalls, ids and ips. Relax kiddo} )
-The full execution can go from 5 minutes to 1 hour, so just relax and wait.
+It is supposed to be slow. Mostly aggressive options from all scanners. (Yeah, if theres an IDS they will know, how much emotion, the better.) {The tools are all used in a way to try to bypass firewalls, ids and ips. Relax kiddo} 
+The full execution can go from 5 minutes to 1 hour, so just relax and wait. }
 
 ## Requirements:
  - Kali Linux updated
