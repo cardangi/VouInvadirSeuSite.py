@@ -20,4 +20,5 @@ Agressive portscan (NMAP) fast way, + O.S detection, goes to this txt.
 Who.is, server info, goes to this txt.
 ### dnsenum.txt
 DNS Enumeration goes to this txt
-
+### CITW.txt
+Could i Invade This if i Want - Will show you the flaws finded, or if the exploit get some password by bruteforce, any outdated service, any possible exploit created by some random indian 5 years ago, that could work in this site. Ok, everything will be there. :]
