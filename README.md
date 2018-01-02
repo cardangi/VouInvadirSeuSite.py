@@ -23,7 +23,8 @@ DNS Enumeration goes to this txt
 ### CITW.txt
 Could i Invade This if i Want - Will show you the flaws finded, or if the exploit get some password by bruteforce, any outdated service, any possible exploit created by some random indian 5 years ago, that could work in this site. Ok, everything will be there. :]
 
-#### Further Info
-I think i shouldn't be talking about this, but, IF YOU ARE A BASTARD THAT WILL USE THIS FOR BAD REASONS, i'm free from ANY liability for your acts. This is created for good reasons only, doing faster and smarter pentests.
+## Further Info
+### Don't be a idiot
+I think i shouldn't be talking about this, but, IF **YOU ARE A BASTARD THAT WILL USE THIS FOR BAD REASONS**, i'm free from **ANY liability for your acts**. This is created for **good reasons only**, doing faster and smarter pentests. Grow up, skids!
 
 *There is a private version of this program. That uses priv8 scanners/exploits, but, i don't get the license for posting in here, so, if you want it, contact me by email: car.dangi@hotmail.com*
