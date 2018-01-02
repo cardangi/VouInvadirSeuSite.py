@@ -21,6 +21,7 @@ The full execution can go from 5 minutes to 1 hour, so just relax and wait.
  - (Optional) A mouse
  ## Usage:
  `git clone this shit by terminal, so you look like a hacker!`
+ 
  `or just download with the green button, extract and run python3 vouinvadirseusite.py , same shit`
 
 ## Files Generated:
