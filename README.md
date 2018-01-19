@@ -35,6 +35,8 @@ Who.is, server info, goes to this txt.
 DNS Enumeration goes to this txt
 ### harvester.html / harvester.xml
 The Harvester info gathering tool output.
+### dirb.txt
+Directory's that DIRB has found in your website.
 ### CITW.txt
 Could i Invade This if i Want - Will show you the flaws finded, or if the exploit get some password by bruteforce, any outdated service, any possible exploit created by some random indian 5 years ago, that could work in this site. Ok, everything will be there. :]
 
