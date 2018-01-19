@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+#Kali automation tool
 #coded with carinho by Carlos Daniel Giovanella :v
 
 from subprocess import *
@@ -17,7 +18,10 @@ try:
 			time.sleep(1)
 			call("dnsenum " + ipsemwww + " > whois.txt", shell=True)
 			time.sleep(5)
-			call("theharvester -d " + ipzeira + " -b all -f harvester.html -l 1000", shell=True)
+			call("theharvester -d " + ipsemwww + " -b all -f harvester.html -l 1000", shell=True)
+			time.sleep(5)
+			call("dirb " + ipsemwww + " -o dirb.txt")
+			time.sleep(5)
 		else:
 			call("whois " + ipzeira + " > whois.txt", shell=True)
 			time.sleep(5)
@@ -26,6 +30,10 @@ try:
 			call("dnsenum " + ipzeira + " > whois.txt", shell=True)
 			time.sleep(5)
 			call("theharvester -d " + ipzeira + " -b all -f harvester.html -l 1000", shell=True)
+			time.sleep(5)
+			call("dirb " + ipsemwww + " -o dirb.txt")
+			time.sleep(5)
+
 
 		
 except IndexError:
