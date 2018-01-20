@@ -20,7 +20,7 @@ try:
 			time.sleep(5)
 			call("theharvester -d " + ipsemwww + " -b all -f harvester.html -l 1000", shell=True)
 			time.sleep(5)
-			call("dirb " + ipsemwww + " -o dirb.txt")
+			call("dirb " + "http://" + ipsemwww + " -o dirb.txt")
 			time.sleep(5)
 		else:
 			call("whois " + ipzeira + " > whois.txt", shell=True)
@@ -31,7 +31,7 @@ try:
 			time.sleep(5)
 			call("theharvester -d " + ipzeira + " -b all -f harvester.html -l 1000", shell=True)
 			time.sleep(5)
-			call("dirb " + ipzeira + " -o dirb.txt")
+			call("dirb " + "http://" + ipzeira + " -o dirb.txt")
 			time.sleep(5)
 
 
